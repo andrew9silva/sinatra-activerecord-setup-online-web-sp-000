@@ -1,3 +1,4 @@
 class Dogs < ActiveRecord::Migration[5.2]
-  def
+  def up 
+  end 
 end
